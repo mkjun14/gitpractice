@@ -1,6 +1,5 @@
 hello this is git practice
 hello this is the second line
-<<<<<<< HEAD
 hello this is the third and last line
 World
 HAHAHA
