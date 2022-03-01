@@ -2,5 +2,5 @@ hello this is git practice
 hello this is the second line
 hello this is the third line
 this is fourth line
-this is 5THTTh line
-
+hello this is the fifth line
+hello this is the sixth line
