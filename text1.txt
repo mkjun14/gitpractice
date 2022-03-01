@@ -1,8 +1,2 @@
 hello this is git practice
-hello this is the second line
-hello this is the third line
-This is 5th line
-this is the sixth line
 
-
-fsadfaslkfjslakfjldskfjlkfkaejfkdajsf
